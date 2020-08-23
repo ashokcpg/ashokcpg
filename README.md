@@ -37,10 +37,10 @@
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ashokcpg&hide=contribs,prs&show_icons=true&theme=blue-green)
 
-### My Repos
+### My Repos:
 
 [![Minimal Travel Website](https://github-readme-stats.vercel.app/api/pin/?username=ashokcpg&repo=minimal-travel-website&theme=blue-green)](https://ashokcpg.gitlab.io/minimal-travel-website)
 
-### Mostly Used Languages
+### Mostly Used Languages:
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokcpg&layout=compact&theme=blue-green)](https://github.com/ashokcpg)
