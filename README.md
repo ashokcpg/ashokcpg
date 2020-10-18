@@ -4,13 +4,14 @@
 
 - 🌱 I’m currently learning MERN Stack Development 
 - 🥅 2020 Goals: Dive Deep into the world of Web Application Security Principles
+- ![](https://komarev.com/ghpvc/?username=ashokcpg&label=PROFILE+VIEWS&color=blue)
 - ⚡ Fun fact: GGMU <img align="center" alt="Man Utd" width="26px" src="https://img.icons8.com/color/2x/manchester-united-fc.png" />
 
 ### Connect with me:
 
-[<img align="left" alt="ashokcpg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ashokcpg)
-[<img align="left" alt="ashokcpg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ashokcpg)
-[<img align="left" alt="ashokcpg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ashokcpg)
+[<img align="left" alt="ashokcpg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://ashokcpg.com.np/twitter)
+[<img align="left" alt="ashokcpg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://ashokcpg.com.np/linkedin)
+[<img align="left" alt="ashokcpg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://ashokcpg.com.np/insta)
 
 <br />
 
