@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72307&size=30&center=true&vCenter=true&width=800&lines=Hi+there%2C+Pleased+to+meet+you.+%3A))]
+<h1 align="center">
+  <a href="https://ashokcpg.com.np">
+    <img src="https://readme-typing-svg.herokuapp.com?color=F72307&size=30&center=true&vCenter=true&width=800&lines=Hi+there%2C+Pleased+to+meet+you.+%3A">
+  </a>
+</h1>
 
 ### Hi there, I'm Ashok :) 👋
 
