@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-### Hi there, I'm Ashok :) 👋
+### I'm Ashok Chapagai :) 👋
 
 ## I'm an aspiring Web Developer, and Security Researcher!!!
 
