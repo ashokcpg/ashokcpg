@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72307&size=30&center=true&vCenter=true&width=800&lines=Hi+there%2C+Pleased+to+meet+you.+%3A))](https://git.io/typing-svg)
+
 ### Hi there, I'm Ashok :) 👋
 
 ## I'm an aspiring Web Developer, and Security Researcher!!!
