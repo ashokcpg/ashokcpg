@@ -31,10 +31,10 @@
 
 <h2>Languages and Tools:</h2>
 
-* Frontend
-<br/>
+### Frontend
+<div style="height: 2px; background: #eee; width: 200px; margin-bottom: 10px;"> </div>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40" />
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
@@ -69,8 +69,6 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
 </a>
-
-
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
 </a>
@@ -81,8 +79,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
 </a>
 
-* Backend
-<br/>
+### Backend
+<div style="height: 2px; background: #eee; width: 200px; margin-bottom: 10px;"> </div>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" />
 </a>
@@ -110,8 +108,9 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
 </a>
-* Cloud
-<br />
+
+### Cloud
+<div style="height: 2px; background: #eee; width: 200px; margin-bottom: 10px;"> </div>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
 </a>
@@ -121,8 +120,9 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
 </a>
-* Others
-<br />
+
+### Others
+<div style="height: 2px; background: #eee; width: 200px; margin-bottom: 10px;"> </div>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </a>
@@ -147,7 +147,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 </a>
+<a>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</a>
 
 <br/>
 
