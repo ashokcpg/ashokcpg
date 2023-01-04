@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning MERN Stack Development 
 - 🥅 2022 Goals: Dive Deep into the world of Web Application Security Principles
-- 🥅 2023 Goals: Get some Cyber Security Certificates and Focus on Nest.js and Go as Backend Framework
+- 🥅 2023 Goals: Get some Cyber Security Certificates, Learn Rust and Focus on Nest.js and Go as Backend Framework
 - ![](https://komarev.com/ghpvc/?username=ashokcpg&label=PROFILE+VIEWS&color=blue)
 - 👨‍💻 All of my projects are available at [https://ashokcpg.com](https://ashokcpg.com)
 - ⚡ Fun fact: GGMU <img align="center" alt="Man Utd" width="26px" src="https://img.icons8.com/color/2x/manchester-united-fc.png" />
