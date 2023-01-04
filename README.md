@@ -111,7 +111,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
 </a>
 * Cloud
-<br/>
+<br />
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
 </a>
@@ -122,7 +122,7 @@
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
 </a>
 * Others
-<br/>
+<br />
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </a>
@@ -154,6 +154,7 @@
 ### Github Statistics:
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ashokcpg&hide=contribs,prs&show_icons=true&theme=blue-green)
+<br />
 <img width="49%" src="https://streak-stats.demolab.com?user=ashokcpg&theme=dark">
 
 ### My Repos:
