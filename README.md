@@ -152,10 +152,10 @@
 <br/>
 
 ### Github Statistics:
-<div>
+
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ashokcpg&hide=contribs,prs&show_icons=true&theme=blue-green)
 <img width="49%" src="https://streak-stats.demolab.com?user=ashokcpg&theme=dark">
-</div>
+
 ### My Repos:
 
 [![Minimal Travel Website](https://github-readme-stats.vercel.app/api/pin/?username=ashokcpg&repo=minimal-travel-website&theme=blue-green)](https://ashokcpg.gitlab.io/minimal-travel-website)
