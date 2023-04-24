@@ -13,14 +13,14 @@
 - 🌱 I’m currently learning MERN Stack Development 
 - 🥅 2022 Goals: Dive Deep into the world of Web Application Security Principles
 - 🥅 2023 Goals: Get some Cyber Security Certificates, Learn Rust and Focus on Nest.js and Go as Backend Framework
-- 👨‍💻 Most of my projects are available at [https://ashokcpg.com](https://ashokcpg.com)
+- 👨‍💻 Find my website [https://ashokcpg.com](https://ashokcpg.com)
 - ⚡ Fun fact: GGMU <img align="center" alt="Man Utd" width="26px" src="https://img.icons8.com/color/2x/manchester-united-fc.png" />
 
 <div>
 <h4>:mailbox: Get in Touch:</h4>
 
 [![Twitter](https://img.shields.io/twitter/follow/ashokcpg?style=social)](https://twitter.com/ashokcpg)
-[![Linkedin Badge](https://img.shields.io/badge/-Ashok%20Chapagai-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokcpg/) [![Instagram Badge](https://img.shields.io/badge/-@ashokcpg-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ashokcpg/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ashok%20Chapagai-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokcpgfsd/) [![Instagram Badge](https://img.shields.io/badge/-@ashokcpg-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ashokcpg/)
   
 </div>
 <br />
