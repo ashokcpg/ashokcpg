@@ -167,3 +167,12 @@
 ### Mostly Used Languages:
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokcpg&layout=compact&theme=blue-green)](https://github.com/ashokcpg)
+
+<hr />
+
+If you landed here from TriosCTF, here is the information you are looking for,
+
+You might like the mountain **Dragmarpo Ri**, from the admin's country.
+
+
+
