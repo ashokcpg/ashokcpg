@@ -10,9 +10,10 @@
 
 ## I'm an aspiring Software Engineer, and Security Researcher!!!
 
-- 🌱 I’m currently learning MERN Stack Development 
-- 🥅 2022 Goals: Dive Deep into the world of Web Application Security Principles
+- 🌱 I’m currently learning MERN Stack Development
+- 🥅 2024 Goals: Get some Cyber Security Certificates, Dive into Cyber Security ( Blue / Red Teaming )
 - 🥅 2023 Goals: Get some Cyber Security Certificates, Learn Rust and Focus on Nest.js and Go as Backend Framework
+- 🥅 2022 Goals: Dive Deep into the world of Web Application Security Principles
 - 👨‍💻 Find my website [https://ashokcpg.com](https://ashokcpg.com)
 - ⚡ Fun fact: GGMU <img align="center" alt="Man Utd" width="26px" src="https://img.icons8.com/color/2x/manchester-united-fc.png" />
 
@@ -156,23 +157,13 @@
 
 ### Github Statistics:
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=ashokcpg&hide=contribs,prs&show_icons=true&theme=blue-green)
-<br />
-<img width="49%" src="https://streak-stats.demolab.com?user=ashokcpg&theme=dark">
-
-### My Repos:
-
-[![Minimal Travel Website](https://github-readme-stats.vercel.app/api/pin/?username=ashokcpg&repo=minimal-travel-website&theme=blue-green)](https://ashokcpg.gitlab.io/minimal-travel-website)
-
-### Mostly Used Languages:
-
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ashokcpg&layout=compact&theme=blue-green)](https://github.com/ashokcpg)
+![My Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashokcpg&theme=dark)
+![Repo Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashokcpg&theme=date_night)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashokcpg&theme=great_gatsby)
+![Productivity Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashokcpg&theme=jolly&utcOffset=8)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashokcpg&theme=monokai)
 
 <hr />
-
-If you landed here from TriosCTF, here is the information you are looking for,
-
-You might like the mountain **Dragmarpo Ri**, from the admin's country.
-
-
+<br />
+<img width="49%" src="https://streak-stats.demolab.com?user=ashokcpg&theme=dark" />
 
