@@ -8,12 +8,19 @@
 
 ### I'm Ashok Chapagai :) 👋
 
-## I'm an aspiring Software Engineer, and Security Researcher!!!
+## I'm a Software Engineer, and Security Researcher!!!
 
-- 🌱 I’m currently learning MERN Stack Development
-- 🥅 2024 Goals: Get some Cyber Security Certificates, Dive into Cyber Security ( Blue / Red Teaming )
-- 🥅 2023 Goals: Get some Cyber Security Certificates, Learn Rust and Focus on Nest.js and Go as Backend Framework
-- 🥅 2022 Goals: Dive Deep into the world of Web Application Security Principles
+<details>
+<summary>Previous Goals Archive</summary>
+- 🥅 2024 Goals: Get some Cyber Security Certificates, Dive into Cyber Security ( Blue / Red Teaming ) <br>
+-   🎯 Got Security+, eJPTv2, Got into Cyber Security <br>
+- 🥅 2023 Goals: Get some Cyber Security Certificates, Learn Rust and Focus on Nest.js and Go as Backend Framework <br>
+-   🎯Got CC, but did not learn backend frameworks, :( <br>
+- 🥅 2022 Goals: Dive Deep into the world of Web Application Security Principles <br>
+-   🎯 Did learn Web Security Stuff <br>
+</details>
+
+- 🥅 2025 Goals: Get more Cyber Security Certificates, AD and Infra Security
 - 👨‍💻 Find my website [https://ashokcpg.com](https://ashokcpg.com)
 - ⚡ Fun fact: GGMU <img align="center" alt="Man Utd" width="26px" src="https://img.icons8.com/color/2x/manchester-united-fc.png" />
 
